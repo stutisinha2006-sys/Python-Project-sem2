@@ -1,0 +1,5 @@
+pymongo
+cryptography
+pandas
+numpy
+matplotlib
